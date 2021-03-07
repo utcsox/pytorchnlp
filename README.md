@@ -18,7 +18,7 @@ This environment will provide us with the right Python version as well as the CU
 Next, activate the conda environment.
 
 ```sh
-conda activate geological-image-similarity
+conda pytorchnlp
 ```
 
 #### Next: install Python packages
