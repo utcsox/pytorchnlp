@@ -1,0 +1,14 @@
+-c prod.txt
+jupyterlab
+matplotlib
+nltk
+notebook
+numpy
+pandas
+pillow
+pyyaml
+seaborn
+scipy
+torch
+torchtext
+tqdm
