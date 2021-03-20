@@ -18,7 +18,7 @@ This environment will provide us with the right Python version as well as the CU
 Next, activate the conda environment.
 
 ```sh
-conda pytorchnlp
+conda activate pytorchnlp
 ```
 
 #### Next: install Python packages
