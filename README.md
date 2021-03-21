@@ -27,6 +27,6 @@ Next, install all necessary Python packages by running `make pip-tools`
 
 #### Set PYTHONPATH
 
-Last, run `export PYTHONPATH=.` before executing any commands later on, or you will get errors like `ModuleNotFoundError: No module named 'image_similarity'`.
+Last, run `export PYTHONPATH=.` before executing any commands later on, or you will get errors like `ModuleNotFoundError: No module named 'pytorchnlp'`.
 
 In order to not have to set `PYTHONPATH` in every terminal you open, just add that line as the last line of the `~/.bashrc` file using a text editor of your choice (e.g. `nano ~/.bashrc`)
