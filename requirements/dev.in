@@ -10,6 +10,7 @@ pyyaml
 scikit-learn
 seaborn
 scipy
+tensorflow
 torch
 torchtext
 tqdm
